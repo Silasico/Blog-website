@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "title": "Blog",
+      "content": "Luck is built into the system",
+      "author": "Ayomide",
+      "id": 4
+    },
+    {
+      "title": "Blog 10",
+      "content": "If you don't lose, you won't understand what it means to win",
+      "author": "Ayomide",
+      "id": 5
+    },
+    {
+      "title": "New blog",
+      "content": "I am a student who would like to pursue a career in technologically related skills but limited due to the situation of Nigeria. I've sought for some YouTube videos in relation to this courses which have given me some basic knowledge of the course. In search of more knowledge, I came across this course on Coursera, front-end web development and I decided to apply for the financial aid in order to improve my knowledge as well as become a technologically sound individual So I can be useful to not only myself but also be able to provide a solution to the declining Nigerian economy with my learnt skills.",
+      "author": "Silas",
+      "id": 6
+    },
+    {
+      "title": "Who's there",
+      "content": "The title who's there was borne from a lot of things",
+      "author": "Ayomide",
+      "id": 7
+    }
+  ]
+}
